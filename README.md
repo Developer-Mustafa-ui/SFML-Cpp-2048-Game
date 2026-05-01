@@ -26,7 +26,7 @@ This is a custom implementation of the popular **2048 puzzle game** built in C++
 - **Move Sound**: Plays when a tile is moved
 - **Merge Sound**: Plays when tiles merge
 - **Game Over Sound**: Plays when win or lose condition is reached
-- **Volume Control**: Different volume levels for each sound type
+- **Volume Control**: Different volume level for each sound type
 
 ### Save/Load System
 - **Game Save**: Save current grid state, score, and timer
